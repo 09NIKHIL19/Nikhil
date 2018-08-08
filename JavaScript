@@ -1,0 +1,6 @@
+const express = require('express');
+const app = express();
+app.express();
+const mongodb = require('mongodb');
+const MongoClient = mongodb.MongoClient;
+MongoClient.connect('mongodb://localhost:27017/mydb');
