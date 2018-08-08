@@ -6,6 +6,7 @@ const MongoClient = mongodb.MongoClient;
 MongoClient.connect('mongodb://localhost:27017/mydb');
 const db = db.collection('customers',function(err,url));
 db.collection.insert({customers:'nikhil',product:'xyz'});
+
 lkcdsj
 csdc
 
@@ -17,3 +18,8 @@ csdc
 
 
 shdlkasjdaskldjasjjashdjkasdjksaffas
+
+
+
+hfashfsfsfsakfaklfasfasjfa
+
